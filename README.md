@@ -1,2 +1,3 @@
-# Projects-Pages
-A Repository for projects of pages.
+# :rocket: Personal Challenges :rocket:
+
+Repository destined for my personal challenges created by my.
